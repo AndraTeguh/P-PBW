@@ -67,3 +67,4 @@ Materi yang dipelajari antara lain:
    ```
 
 ## Screenshot
+<img width="1920" height="1080" alt="Cuplikan layar 2025-09-19 113113" src="https://github.com/user-attachments/assets/16789eff-9490-45b3-a296-f1a846aae98a" />
