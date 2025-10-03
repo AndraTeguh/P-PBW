@@ -53,15 +53,16 @@ Alat Utama yang akan digunakan pada praktikum hari ini:
 
  <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 095557" src="https://github.com/user-attachments/assets/b59f38c9-57a8-41c7-bbe2-2e2a849f8cdc" />
 
-6. **Tugas Mandiri**
+6.  **Tugas Mandiri**
 
-    - Membuat Halaman Statis Kontak
-      <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104754" src="https://github.com/user-attachments/assets/ede038e0-9893-4c8e-a3aa-aea62f353a68" />
+    -   Membuat Halaman Statis Kontak
+        <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104754" src="https://github.com/user-attachments/assets/ede038e0-9893-4c8e-a3aa-aea62f353a68" />
 
-    - Membuat Route untuk Menampilkan Kontak
-      <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104730" src="https://github.com/user-attachments/assets/dbd2c0ce-9f58-4cfa-8765-3b2f8e995179" />
-    - Tampilan Seluruh Halaman AKhir
+    -   Membuat Route untuk Menampilkan Kontak
+        <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104730" src="https://github.com/user-attachments/assets/dbd2c0ce-9f58-4cfa-8765-3b2f8e995179" />
+    -   Tampilan Seluruh Halaman AKhir
+        <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104144" src="https://github.com/user-attachments/assets/a1627859-99fd-478e-bfac-665035cd7358" />
 
-          <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104144" src="https://github.com/user-attachments/assets/a1627859-99fd-478e-bfac-665035cd7358" />
-          <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104154" src="https://github.com/user-attachments/assets/0c77bb65-7efe-49b0-9227-965d0f6f0b81" />
-          <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104220" src="https://github.com/user-attachments/assets/281b281c-6b57-4a4c-aecd-4fdff98dc7c5" />
+        <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104154" src="https://github.com/user-attachments/assets/0c77bb65-7efe-49b0-9227-965d0f6f0b81" />
+
+        <img width="1920" height="1020" alt="Cuplikan layar 2025-10-03 104220" src="https://github.com/user-attachments/assets/281b281c-6b57-4a4c-aecd-4fdff98dc7c5" />
